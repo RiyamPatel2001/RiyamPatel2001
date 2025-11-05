@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riyam
 - 👀 Interested in Machine learning, Sci-Fi, Physics, History and Philosophy 
-- 🌱 Currently learning Neuroinformatics, ML for Audio-Signal processing and other AI stuffs.
+- 🌱 Currently learning Cloud, Information Retrieval, System Design and AI stuff.
 - 💞️ I’m looking to collaborate on a Project or a Startup Idea. 
 - 📫 E-mail - riyampatel003@gmail.com
 
